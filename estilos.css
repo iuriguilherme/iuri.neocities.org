@@ -1,0 +1,126 @@
+@charset 'UTF-8';
+/*
+	Kopimi 2013-2014 iuri.neocities.org
+	Use sem citar a fonte
+*/
+body {
+	font-family:"Consolas","Monaco","Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier New","Monospace";
+	font-weight:bold;
+}
+main {
+	height:100%;
+}
+footer {
+	padding:1em;
+	position:fixed;
+	bottom:0%;
+}
+nav {
+	border-left:0;
+	border-right:0;
+	border-bottom:0;
+}
+nav li {
+	padding-left:1em;
+	padding-right:1em;
+	padding-bottom:1em;
+	-moz-border-radius:0 0 5em 5em;
+	-webkit-border-radius:0 0 5em 5em;
+	-opera-border-radius:0 0 5em 5em;
+	-khtml-border-radius:0 0 5em 5em;
+	border-radius:0 0 5em 5em;
+	-moz-box-shadow:inset 0 -0.5em 1em 0.1em rgba(0,0,0,0.5);
+	-webkit-box-shadow:inset 0 -0.5em 1em 0.1em rgba(0,0,0,0.5);
+	box-shadow:inset 0 -0.5em 1em 0.1em rgba(0,0,0,0.5);
+}
+nav a {
+	padding:0.5em;
+	border:0;
+	text-decoration:none;
+	text-weight:bold;
+	font-size:large;
+}
+a {
+	color:black;
+}
+a:hover {
+	text-decoration:none;
+}
+.caixa {
+	padding:1em;
+	-moz-border-radius:2em;
+	-webkit-border-radius:2em;
+	-opera-border-radius:2em;
+	-khtml-border-radius:2em;
+	border-radius:2em;
+	-moz-box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+	-webkit-box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+	box-shadow:0em 0em 0.5em 0.2em rgba(0,0,0,0.5);
+}
+.caixa-25 {
+	width:25%;
+	height:100%;
+}
+.caixa-30 {
+	width:30%;
+	height:100%;
+}
+.caixa-33 {
+	width:33%;
+	height:100%;
+}
+.caixa-50 {
+	width:50%;
+	height:100%;
+}
+.caixa-70 {
+	width:70%;
+	height:100%;
+}
+.caixa-75 {
+	width:75%;
+	height:100%;
+}
+.caixa-100 {
+	width:100%;
+	height:100%;
+}
+.caixa p {
+	padding:1em;
+	text-align:justify;
+}
+.caixa ul {
+	list-style-type:none;
+}
+.frase-autor {
+	font-style:italic;
+	text-size:medium;
+	text-align:right;
+}
+.terminal {
+	padding:0.5em;
+	text-align:justify;
+	background-color:black;
+	color:white;
+}
+.terminal a {
+	text-decoration:none;
+	color:white;
+}
+.separador {
+	padding:2em;
+}
+.hidden {
+	display:none;
+}
+hr.inter-frase {
+	margin-left:25%;
+	width:75%;
+}
+hr.inter-autor {
+	margin-right:25%;
+	width:75%;
+}
+.horizontal ul li {
+	display:inline;
+}
