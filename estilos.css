@@ -1,19 +1,21 @@
 @charset 'UTF-8';
 /*
-	Kopimi 2013-2014 iuri.neocities.org
+  Kopimi 2013-2017 iuri.neocities.org
 	Use sem citar a fonte
 */
 body {
 	font-family:"Consolas","Monaco","Lucida Console","Liberation Mono","DejaVu Sans Mono","Bitstream Vera Sans Mono","Courier New","Monospace";
-	font-weight:bold;
+	/* font-weight:bold; essa foi a ideia mais idiota que eu ja tive em css */
 }
 main {
 	height:100%;
 }
 footer {
+  width:100%;
 	padding:1em;
 	position:fixed;
-	bottom:0%;
+	bottom:0;
+	box-shadow:0 -0.3em 0.3em 0.1em rgba(0,0,0,0.5);
 }
 nav {
 	border-left:0;
@@ -37,7 +39,7 @@ nav a {
 	padding:0.5em;
 	border:0;
 	text-decoration:none;
-	text-weight:bold;
+	/* text-weight:bold; daonde eu tirei isto? */
 	font-size:large;
 }
 a {
@@ -108,7 +110,7 @@ a:hover {
 	color:white;
 }
 .separador {
-	padding:2em;
+	padding:1em;
 }
 .hidden {
 	display:none;
@@ -124,3 +126,12 @@ hr.inter-autor {
 .horizontal ul li {
 	display:inline;
 }
+span.email {
+  color:white;
+  background-color:black;
+}
+img.foto {
+	border-radius:5em;
+	box-shadow:0.3em 0.3em 0.5em 0.5em rgba(0,0,0,0.5);
+}
+    
