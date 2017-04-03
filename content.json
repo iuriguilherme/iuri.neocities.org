@@ -1,0 +1,133 @@
+{
+ "address": "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey",
+ "description": "",
+ "files": {
+  "LICENSE": {
+   "sha512": "fa06eb744831ab699d4f071477cc9e1708ba9e16f42aaef5ee9589066810d85d",
+   "size": 31
+  },
+  "README.md": {
+   "sha512": "845f9c4f2a25d8dd53be63b675c4163b134154637fc26fdc6af7882e2b94c92b",
+   "size": 262
+  },
+  "blogs.html": {
+   "sha512": "0c638a97cae4039e71a7a49d1a817fa6722118f179c67fff24307f0385ebe617",
+   "size": 3187
+  },
+  "chaves.html": {
+   "sha512": "b2d3154aad03321baf6b92c468183405ccfbdf6066a8d20fe0e407d3822c367c",
+   "size": 8578
+  },
+  "contatos.html": {
+   "sha512": "2e914c4008a4d9141847b245733a4351eb123a32d258fe3d862e5315242d43d8",
+   "size": 4854
+  },
+  "email.png": {
+   "sha512": "46828cbcc8c812970350eb2105d91ef63505d18d59e151bea7841c8b90d14ae9",
+   "size": 17140
+  },
+  "estilos.css": {
+   "sha512": "505861f47047997076ca698f1fe725642d9c71aa33b9bf70f8486448ff0a5a1e",
+   "size": 2340
+  },
+  "helpers.css": {
+   "sha512": "d8698a1fb99d31e06b6813709c8908c00d571f6c82aefc83ab68ec8894f3def0",
+   "size": 22278
+  },
+  "helpers.min.css": {
+   "sha512": "656a142651ab54f15efb04396c2c810ee37df9e11bc86cbd704448ce79cba1f2",
+   "size": 17240
+  },
+  "index.html": {
+   "sha512": "5b1b311f79b437f86c48b47f016500baadbd2ae4c24d54c08a465a3652fabefc",
+   "size": 4111
+  },
+  "irc.png": {
+   "sha512": "ed810857a41960d8233c2177ba7770854839fb73b570faccd010f08b6991ba2e",
+   "size": 27835
+  },
+  "iuri.png": {
+   "sha512": "0fce575972eb52dac8ca67219c8335f8d2ceabcb645bac05723bc35ee6bd8912",
+   "size": 430259
+  },
+  "iuri.pub.asc": {
+   "sha512": "667a3566b8f8970ce0ed317c6e2a1048c57133ddfe427b8409d5eb04f3b18533",
+   "size": 3133
+  },
+  "iuri@fenix.hi.ato.br.rsa.pub.asc": {
+   "sha512": "be0720b320070cc0d6eea5803052cf028a50300282b796f3d428be45837f7ca2",
+   "size": 411
+  },
+  "iuri@piratas.xyz.rsa.pub.asc": {
+   "sha512": "97903423076e36093af9b58c0ebf3d66a2548d5afdeb122c8c020059061b1ae4",
+   "size": 742
+  },
+  "iuri@riseup.net.rsa.pub.asc": {
+   "sha512": "4f008bde1a547cc910290944d123134d533afb5af944227370f3bc292898edb4",
+   "size": 741
+  },
+  "jabber.png": {
+   "sha512": "0589aa24a3b5bed80d2c6021f24e33ca68d0b9c9cae32e6bd291d3a989331e98",
+   "size": 22271
+  },
+  "juramidam.css": {
+   "sha512": "20f69e65bee8d7c74d60efdf01a01e5dd381ca08953cb283cfa11d3d320b5c74",
+   "size": 152
+  },
+  "juramidam.html": {
+   "sha512": "b22dcfee83fef006f550b5ccf45e8621a89545dc6c19c73785fe3405c97d6574",
+   "size": 11354
+  },
+  "kontalk.png": {
+   "sha512": "fcc41bbbc39e0fc3f1e186a95d9d213397b1441ea69fb57a75ec3c4a712a8bf6",
+   "size": 2481
+  },
+  "not_found.html": {
+   "sha512": "ba4d8c2887e1c03dfbd93b921dfd738e242c62ba66a2511b7e882ebe74976174",
+   "size": 2178
+  },
+  "paginas.html": {
+   "sha512": "3744dbf52afdedf05de1fd9904ebf4537cbbfe1904c2317c1a81806460997a9f",
+   "size": 6027
+  },
+  "redes.html": {
+   "sha512": "0f6413c0ac683f144a2f8f01b7fe1d08e801f72a09f9981f4b254d41ab0126a8",
+   "size": 5788
+  },
+  "telegram.png": {
+   "sha512": "6f780fbb3dc0910e6a7621eef0929678750ae0c04762784af668b8d03199e376",
+   "size": 12651
+  },
+  "textsecure.png": {
+   "sha512": "e13029a990e61284d0121108361b21e0e44180550d73efcf00d94d02822cd51d",
+   "size": 37947
+  },
+  "torrent.html": {
+   "sha512": "676b21106745cea08b0d1f268c99bb3e40a1b06f184f040c1ad4197e6319f39e",
+   "size": 2932
+  },
+  "tox.png": {
+   "sha512": "f27dea0d0cbc31c30cb7f2ade03c5abbc738dd3800c14492e593057a2ac7fc76",
+   "size": 2155
+  },
+  "webtorrent.min.js": {
+   "sha512": "f6ca6cbb85e02a6a59d3cb3066dc8ab3e2ca9de1ca9f66e5c16835023b58fb91",
+   "size": 263066
+  }
+ },
+ "ignore": "",
+ "inner_path": "content.json",
+ "modified": 1491182169,
+ "postmessage_nonce_security": true,
+ "sign": [
+  4533876222665511577777049847778892704006880191830138695214056512159145877485,
+  22928058699267921073391631879029806273748679765370693043985542651017860943582
+ ],
+ "signers_sign": "Gy+epPJt4Y4BcFwWPi7Vmt0xNp/DLAEb84HB9QZ3IDDvOkt6nMiDqEf3lGbWoG2ByjysJ5m4kH/UCjNcUDKgp3A=",
+ "signs": {
+  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "HJoD4YCm1L4TesdAbi5EKl1g8sIH8RJSwl33MSkveC2REgPoM+6xPyu1pdGl0dO1MZmDk7xLcU8t+NQbBCBDMPo="
+ },
+ "signs_required": 1,
+ "title": "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey - ZeroNet_",
+ "zeronet_version": "0.5.3"
+}
