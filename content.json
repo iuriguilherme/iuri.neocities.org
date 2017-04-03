@@ -1,6 +1,6 @@
 {
  "address": "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey",
- "description": "",
+ "description": "Iuri Guilherme dos Santos Martins",
  "files": {
   "LICENSE.txt": {
    "sha512": "c30ed31a0aa23f60a52b0e938857915ac32aa167f529d399b997868836a92355",
@@ -133,17 +133,17 @@
  },
  "ignore": "",
  "inner_path": "content.json",
- "modified": 1491190836,
+ "modified": 1491192239,
  "postmessage_nonce_security": true,
  "sign": [
-  37347814160759484230955910836457279481864991651183771771548689827996900555801,
-  110908683414554233486633558197729289090736874121253323497173922317418694024011
+  39329727055686831250300530264766268730155897145659371497166249313397952977030,
+  177579843988679275016912950160120934431756548475120220294324608351473201778
  ],
  "signers_sign": "Gy+epPJt4Y4BcFwWPi7Vmt0xNp/DLAEb84HB9QZ3IDDvOkt6nMiDqEf3lGbWoG2ByjysJ5m4kH/UCjNcUDKgp3A=",
  "signs": {
-  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "HMpMmJMZkLmZ1qf96MJjkAgIa50aCrWo8gBKo8a3sM6QnPauVhqodKQ7hcffMQXgsmdvcNUGB++ArXicmRW0IFI="
+  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "HOKb/sK4LVf5vabu0kY3S+Iwffdt1KjdzuH/jbGWjh7t34vcGP7Zc8+rTszcTu3IelSpGbb4siJmT6sjgd6JX5o="
  },
  "signs_required": 1,
- "title": "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey - ZeroNet_",
+ "title": "Iuri Guilherme dos Santos Martins",
  "zeronet_version": "0.5.3"
 }
