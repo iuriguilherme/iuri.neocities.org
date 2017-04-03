@@ -31,16 +31,16 @@
    "size": 3720
   },
   "blogs.html": {
-   "sha512": "0c638a97cae4039e71a7a49d1a817fa6722118f179c67fff24307f0385ebe617",
-   "size": 3187
+   "sha512": "af7c0e41f859998b6bd09d2d49cb64c81f8989042613a4f127cc170d2ef244ad",
+   "size": 3479
   },
   "chaves.html": {
-   "sha512": "b2d3154aad03321baf6b92c468183405ccfbdf6066a8d20fe0e407d3822c367c",
-   "size": 8578
+   "sha512": "dc2244c643077098d3c005a9e98ca0d2c7a8f98bcdfc67df9be978116a29cdab",
+   "size": 8870
   },
   "contatos.html": {
-   "sha512": "b482d39444ca94ea38705408e9c7a6dd27926255711ba3e09a0d9c13a5db5dc7",
-   "size": 5174
+   "sha512": "ec23951acb619064bc843cead7c5c26fca3b63c7f80555d0427f2203cba6e8fd",
+   "size": 5248
   },
   "decred.svg": {
    "sha512": "9895e52836286ec95df4c3623259de6310d3f135fbe9d84e902b95fa62f6ab86",
@@ -115,8 +115,8 @@
    "size": 152
   },
   "juramidam.html": {
-   "sha512": "b22dcfee83fef006f550b5ccf45e8621a89545dc6c19c73785fe3405c97d6574",
-   "size": 11354
+   "sha512": "6bab60fb719aa060296a3d74a22fafa6647179578efa579ae5d32c9a487dbe80",
+   "size": 11331
   },
   "kontalk.png": {
    "sha512": "fcc41bbbc39e0fc3f1e186a95d9d213397b1441ea69fb57a75ec3c4a712a8bf6",
@@ -135,12 +135,12 @@
    "size": 22934
   },
   "not_found.html": {
-   "sha512": "ba4d8c2887e1c03dfbd93b921dfd738e242c62ba66a2511b7e882ebe74976174",
-   "size": 2178
+   "sha512": "151bcb13113b9f4667fa1d0b83185ced2499d22913cec5acb0bd470eaa31287f",
+   "size": 2252
   },
   "paginas.html": {
-   "sha512": "3744dbf52afdedf05de1fd9904ebf4537cbbfe1904c2317c1a81806460997a9f",
-   "size": 6027
+   "sha512": "9f5dfff5a1b4387345c240cdfdf6f4ba85816c79534e8f563578c8033eb97186",
+   "size": 6319
   },
   "pivx.png": {
    "sha512": "34af832cec545118c3e4f1fff3c02819ab7c24cbe7d46859ca813e7f23b2360b",
@@ -151,8 +151,8 @@
    "size": 6282
   },
   "redes.html": {
-   "sha512": "0f6413c0ac683f144a2f8f01b7fe1d08e801f72a09f9981f4b254d41ab0126a8",
-   "size": 5788
+   "sha512": "af4b497f9214cd843de74ee67e9ad9502e29cd0036fae5aee7f8feb78a027feb",
+   "size": 6080
   },
   "telegram.png": {
    "sha512": "6f780fbb3dc0910e6a7621eef0929678750ae0c04762784af668b8d03199e376",
@@ -185,15 +185,15 @@
  },
  "ignore": "",
  "inner_path": "content.json",
- "modified": 1491208318,
+ "modified": 1491215125,
  "postmessage_nonce_security": true,
  "sign": [
-  2670723206579695375637078031121488972027240741482225501481776819724144299253,
-  69281344353738775023965384601268288287953898244322503682138702250036881695277
+  103627056546936519157737709330275026974746388156655951352966971719590092587302,
+  46510478712675646515858429846305803662702206134620628949843129937143664990892
  ],
  "signers_sign": "Gy+epPJt4Y4BcFwWPi7Vmt0xNp/DLAEb84HB9QZ3IDDvOkt6nMiDqEf3lGbWoG2ByjysJ5m4kH/UCjNcUDKgp3A=",
  "signs": {
-  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "G67c02Ye3epSVlcFEVo65w0UXmKtUE6RfswLRhWN4j3KMAG8HQJhPXJT2j8/tJ4i882sVqHS3C60u6lROT0gnf0="
+  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "HLMX99gagDPf8huPZ/fsNTETSG66J1E4m28XpGwtrfyIG5E1MLzMEzITd7FvOCqCPQtT3Q9NvNqPnQx9ZhBUXIY="
  },
  "signs_required": 1,
  "title": "Iuri Guilherme dos Santos Martins",
