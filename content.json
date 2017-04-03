@@ -39,8 +39,8 @@
    "size": 8578
   },
   "contatos.html": {
-   "sha512": "2e914c4008a4d9141847b245733a4351eb123a32d258fe3d862e5315242d43d8",
-   "size": 4854
+   "sha512": "b482d39444ca94ea38705408e9c7a6dd27926255711ba3e09a0d9c13a5db5dc7",
+   "size": 5174
   },
   "decred.svg": {
    "sha512": "9895e52836286ec95df4c3623259de6310d3f135fbe9d84e902b95fa62f6ab86",
@@ -146,6 +146,10 @@
    "sha512": "34af832cec545118c3e4f1fff3c02819ab7c24cbe7d46859ca813e7f23b2360b",
    "size": 44202
   },
+  "qrcode-tox.png": {
+   "sha512": "7e6fcb4a27ecf5db91041726ec1056b95607cb6e884c06fbdabff76a6afef8ce",
+   "size": 6282
+  },
   "redes.html": {
    "sha512": "0f6413c0ac683f144a2f8f01b7fe1d08e801f72a09f9981f4b254d41ab0126a8",
    "size": 5788
@@ -181,15 +185,15 @@
  },
  "ignore": "",
  "inner_path": "content.json",
- "modified": 1491205260,
+ "modified": 1491207823,
  "postmessage_nonce_security": true,
  "sign": [
-  114293418102428796918470540930709366501529662948497139317392724663500441319369,
-  76672688555869824147267060837465507437305877519181836015015596189072355289050
+  103086354163789569501579564048837723235496339687828252856996687832019041217393,
+  66667778860415383150322851457849889360757297471296919475368179734049377913779
  ],
  "signers_sign": "Gy+epPJt4Y4BcFwWPi7Vmt0xNp/DLAEb84HB9QZ3IDDvOkt6nMiDqEf3lGbWoG2ByjysJ5m4kH/UCjNcUDKgp3A=",
  "signs": {
-  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "G34ixMdKobhZYNohW5HIwZ8FlJ5obkR2Pl3C+IxwCJDdvlkRifD+FJV6q2TpBF8eQ1pJGA4V1j2xBCfdtmsNuxY="
+  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "G134UqJLOfpHxoBDV8WFpaY21nmB4uioHyye+o1BAwMayqDcky/5r/g20Nlw+bzaQzRGC+wjoiASvv4B7etB2bw="
  },
  "signs_required": 1,
  "title": "Iuri Guilherme dos Santos Martins",
