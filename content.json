@@ -2,9 +2,9 @@
  "address": "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey",
  "description": "",
  "files": {
-  "LICENSE": {
-   "sha512": "fa06eb744831ab699d4f071477cc9e1708ba9e16f42aaef5ee9589066810d85d",
-   "size": 31
+  "LICENSE.txt": {
+   "sha512": "c30ed31a0aa23f60a52b0e938857915ac32aa167f529d399b997868836a92355",
+   "size": 288
   },
   "README.md": {
    "sha512": "845f9c4f2a25d8dd53be63b675c4163b134154637fc26fdc6af7882e2b94c92b",
@@ -27,8 +27,8 @@
    "size": 17140
   },
   "estilos.css": {
-   "sha512": "505861f47047997076ca698f1fe725642d9c71aa33b9bf70f8486448ff0a5a1e",
-   "size": 2340
+   "sha512": "72f17041180b12a0ecffa9ada7030c7f53aa6378561d5b118e9e02e022767202",
+   "size": 2432
   },
   "helpers.css": {
    "sha512": "d8698a1fb99d31e06b6813709c8908c00d571f6c82aefc83ab68ec8894f3def0",
@@ -39,8 +39,12 @@
    "size": 17240
   },
   "index.html": {
-   "sha512": "5b1b311f79b437f86c48b47f016500baadbd2ae4c24d54c08a465a3652fabefc",
-   "size": 4111
+   "sha512": "dabc50d5db62437a5d12db8428013d63cab5607e87051e56a85a45c54d8e61d2",
+   "size": 6400
+  },
+  "ipfs.svg": {
+   "sha512": "8c6e82e7bbb83bfd1e2e1268c07327b9e5f73012cc7f1d353152198b7dc4b6f1",
+   "size": 4836
   },
   "irc.png": {
    "sha512": "ed810857a41960d8233c2177ba7770854839fb73b570faccd010f08b6991ba2e",
@@ -82,6 +86,10 @@
    "sha512": "fcc41bbbc39e0fc3f1e186a95d9d213397b1441ea69fb57a75ec3c4a712a8bf6",
    "size": 2481
   },
+  "neocities.svg": {
+   "sha512": "4c19aa5b3aaa0b0503225a7ed4a820b625e12abca6146eb0c38397dc011efc16",
+   "size": 22934
+  },
   "not_found.html": {
    "sha512": "ba4d8c2887e1c03dfbd93b921dfd738e242c62ba66a2511b7e882ebe74976174",
    "size": 2178
@@ -102,6 +110,10 @@
    "sha512": "e13029a990e61284d0121108361b21e0e44180550d73efcf00d94d02822cd51d",
    "size": 37947
   },
+  "tor.svg": {
+   "sha512": "e99b1c7378644b82af3f31a22926c72cf420cb89646865f2889734900a575f1b",
+   "size": 1787519
+  },
   "torrent.html": {
    "sha512": "676b21106745cea08b0d1f268c99bb3e40a1b06f184f040c1ad4197e6319f39e",
    "size": 2932
@@ -113,19 +125,23 @@
   "webtorrent.min.js": {
    "sha512": "f6ca6cbb85e02a6a59d3cb3066dc8ab3e2ca9de1ca9f66e5c16835023b58fb91",
    "size": 263066
+  },
+  "zeronet.svg": {
+   "sha512": "a8a3049f5d88813d9233fac5fea4063d3ebcc1803dd236e991c382649c84b1eb",
+   "size": 1002
   }
  },
  "ignore": "",
  "inner_path": "content.json",
- "modified": 1491182169,
+ "modified": 1491189587,
  "postmessage_nonce_security": true,
  "sign": [
-  4533876222665511577777049847778892704006880191830138695214056512159145877485,
-  22928058699267921073391631879029806273748679765370693043985542651017860943582
+  47540108772631322216774509429561825504872357145006827018795970352445664085636,
+  17139690722724404395160066967261573263008109663459986793258461122373488289787
  ],
  "signers_sign": "Gy+epPJt4Y4BcFwWPi7Vmt0xNp/DLAEb84HB9QZ3IDDvOkt6nMiDqEf3lGbWoG2ByjysJ5m4kH/UCjNcUDKgp3A=",
  "signs": {
-  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "HJoD4YCm1L4TesdAbi5EKl1g8sIH8RJSwl33MSkveC2REgPoM+6xPyu1pdGl0dO1MZmDk7xLcU8t+NQbBCBDMPo="
+  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "G41aQeXHZuh6s5mX4DEP/4qwyrnvsDeAiTN4HbipJ4ADzlFja1/XGexUscq8XqwAzbEYz3iPNm3pJVzJQntYbg8="
  },
  "signs_required": 1,
  "title": "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey - ZeroNet_",
