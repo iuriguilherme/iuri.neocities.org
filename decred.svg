@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 127.07124 98.139999"
+   version="1.1"
+   sodipodi:docname="decred.svg"
+   width="127.07124"
+   height="98.139999"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>decred - logo - primary - negative - 1 color</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="661"
+     id="namedview21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.896875"
+     inkscape:cx="259.103"
+     inkscape:cy="-16.091245"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#0c1e3e;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">decred - logo - primary - negative - 1 color</title>
+  <g
+     data-name="&lt;Group&gt;"
+     id="_Group_2"
+     transform="translate(-50.608755,-50.32)">
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="m 106.47,111.27 h 31.43 a 21.18,21.18 0 0 0 0,-42.36 h -10 L 106.47,50.32 h 31.43 a 39.78,39.78 0 0 1 15,76.62 l 24.78,21.51 H 149.3 Z"
+       class="cls-2"
+       data-name="&lt;Path&gt;"
+       id="_Path_" />
+  </g>
+  <g
+     data-name="&lt;Group&gt;"
+     id="_Group_3"
+     transform="translate(-50.608755,-50.32)">
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       d="M 121.81,87.51 H 90.38 a 21.18,21.18 0 0 0 0,42.36 h 10 l 21.42,18.59 H 90.38 a 39.78,39.78 0 0 1 -15,-76.62 L 50.62,50.32 H 79 Z"
+       class="cls-2"
+       data-name="&lt;Path&gt;"
+       id="_Path_2" />
+  </g>
+</svg>
