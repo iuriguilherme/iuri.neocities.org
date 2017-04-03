@@ -137,3 +137,6 @@ img.foto {
 .sombra {
 	box-shadow: 0.2em 0.2em 0.2em 0.1em rgba(0,0,0,0.5);
 }
+img.icone {
+    height:16px;
+}
