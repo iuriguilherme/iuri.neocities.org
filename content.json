@@ -2,22 +2,6 @@
  "address": "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey",
  "description": "Iuri Guilherme dos Santos Martins",
  "files": {
-  "0xe5709f1F52b3Da863D2BB9f0892545453364d32c.png": {
-   "sha512": "3b1c80228ca939cab71aa601f65e3a58dc0e870e91d98d42e3b9399434eb26f7",
-   "size": 401
-  },
-  "12zo7CZeqqsPwszW5zjz83JzcPx2tgchq9.png": {
-   "sha512": "17b5787a45e1c229f35d440ce0c8a5832dca572de768f0c5427f5f26170d0df7",
-   "size": 479
-  },
-  "D74X8YB7BRiTzbKvEE28Yw5tWhAskAqfz8.png": {
-   "sha512": "480be7d7ab9b64221c8130e8f8b7934e0f21e41821763e3b4fade51728f049db",
-   "size": 1588
-  },
-  "FM8yNJBvvhBZGNPSeVjHB3fp8Z2KqVEgMp.png": {
-   "sha512": "95842b4bed92dba798f07231ac60961eb2b05df9ed5bef48731ecf9bd01a8f2e",
-   "size": 1598
-  },
   "LICENSE.txt": {
    "sha512": "c30ed31a0aa23f60a52b0e938857915ac32aa167f529d399b997868836a92355",
    "size": 288
@@ -25,10 +9,6 @@
   "README.md": {
    "sha512": "845f9c4f2a25d8dd53be63b675c4163b134154637fc26fdc6af7882e2b94c92b",
    "size": 262
-  },
-  "bitcoin.svg": {
-   "sha512": "ee44e5664b358be573d372a1641f33523082d324e5a4e29228a6914ddc01d7b2",
-   "size": 3720
   },
   "blogs.html": {
    "sha512": "af7c0e41f859998b6bd09d2d49cb64c81f8989042613a4f127cc170d2ef244ad",
@@ -42,29 +22,13 @@
    "sha512": "ec23951acb619064bc843cead7c5c26fca3b63c7f80555d0427f2203cba6e8fd",
    "size": 5248
   },
-  "decred.svg": {
-   "sha512": "9895e52836286ec95df4c3623259de6310d3f135fbe9d84e902b95fa62f6ab86",
-   "size": 2643
-  },
   "doacoes.html": {
    "sha512": "9f4d865791bb95726bd57088d6333d211d6e0ed94167707b69716b29b7551a88",
    "size": 5143
   },
-  "email.png": {
-   "sha512": "46828cbcc8c812970350eb2105d91ef63505d18d59e151bea7841c8b90d14ae9",
-   "size": 17140
-  },
   "estilos.css": {
    "sha512": "72f17041180b12a0ecffa9ada7030c7f53aa6378561d5b118e9e02e022767202",
    "size": 2432
-  },
-  "ethereum.png": {
-   "sha512": "55c2f8f634223832be98ea5eb4a371e457bb6b0c408bf041213b02749b6e8a72",
-   "size": 136007
-  },
-  "florincoin.png": {
-   "sha512": "eb0501cb9543f06305b205d0b570f0545eb0bf2c30356483b87ba1609045692f",
-   "size": 21829
   },
   "helpers.css": {
    "sha512": "d8698a1fb99d31e06b6813709c8908c00d571f6c82aefc83ab68ec8894f3def0",
@@ -77,18 +41,6 @@
   "index.html": {
    "sha512": "a0a5fef9d38df266fa98869140928cd7fb37aedd8b6fd0c1884b1ce978d86c41",
    "size": 6990
-  },
-  "ipfs.svg": {
-   "sha512": "8c6e82e7bbb83bfd1e2e1268c07327b9e5f73012cc7f1d353152198b7dc4b6f1",
-   "size": 4836
-  },
-  "irc.png": {
-   "sha512": "ed810857a41960d8233c2177ba7770854839fb73b570faccd010f08b6991ba2e",
-   "size": 27835
-  },
-  "iuri.png": {
-   "sha512": "0fce575972eb52dac8ca67219c8335f8d2ceabcb645bac05723bc35ee6bd8912",
-   "size": 430259
   },
   "iuri.pub.asc": {
    "sha512": "667a3566b8f8970ce0ed317c6e2a1048c57133ddfe427b8409d5eb04f3b18533",
@@ -106,10 +58,6 @@
    "sha512": "4f008bde1a547cc910290944d123134d533afb5af944227370f3bc292898edb4",
    "size": 741
   },
-  "jabber.png": {
-   "sha512": "0589aa24a3b5bed80d2c6021f24e33ca68d0b9c9cae32e6bd291d3a989331e98",
-   "size": 22271
-  },
   "juramidam.css": {
    "sha512": "20f69e65bee8d7c74d60efdf01a01e5dd381ca08953cb283cfa11d3d320b5c74",
    "size": 152
@@ -117,6 +65,80 @@
   "juramidam.html": {
    "sha512": "6bab60fb719aa060296a3d74a22fafa6647179578efa579ae5d32c9a487dbe80",
    "size": 11331
+  },
+  "not_found.html": {
+   "sha512": "151bcb13113b9f4667fa1d0b83185ced2499d22913cec5acb0bd470eaa31287f",
+   "size": 2252
+  },
+  "paginas.html": {
+   "sha512": "9f5dfff5a1b4387345c240cdfdf6f4ba85816c79534e8f563578c8033eb97186",
+   "size": 6319
+  },
+  "redes.html": {
+   "sha512": "af4b497f9214cd843de74ee67e9ad9502e29cd0036fae5aee7f8feb78a027feb",
+   "size": 6080
+  },
+  "torrent.html": {
+   "sha512": "676b21106745cea08b0d1f268c99bb3e40a1b06f184f040c1ad4197e6319f39e",
+   "size": 2932
+  },
+  "webtorrent.min.js": {
+   "sha512": "f6ca6cbb85e02a6a59d3cb3066dc8ab3e2ca9de1ca9f66e5c16835023b58fb91",
+   "size": 263066
+  }
+ },
+ "files_optional": {
+  "0xe5709f1F52b3Da863D2BB9f0892545453364d32c.png": {
+   "sha512": "3b1c80228ca939cab71aa601f65e3a58dc0e870e91d98d42e3b9399434eb26f7",
+   "size": 401
+  },
+  "12zo7CZeqqsPwszW5zjz83JzcPx2tgchq9.png": {
+   "sha512": "17b5787a45e1c229f35d440ce0c8a5832dca572de768f0c5427f5f26170d0df7",
+   "size": 479
+  },
+  "D74X8YB7BRiTzbKvEE28Yw5tWhAskAqfz8.png": {
+   "sha512": "480be7d7ab9b64221c8130e8f8b7934e0f21e41821763e3b4fade51728f049db",
+   "size": 1588
+  },
+  "FM8yNJBvvhBZGNPSeVjHB3fp8Z2KqVEgMp.png": {
+   "sha512": "95842b4bed92dba798f07231ac60961eb2b05df9ed5bef48731ecf9bd01a8f2e",
+   "size": 1598
+  },
+  "bitcoin.svg": {
+   "sha512": "ee44e5664b358be573d372a1641f33523082d324e5a4e29228a6914ddc01d7b2",
+   "size": 3720
+  },
+  "decred.svg": {
+   "sha512": "9895e52836286ec95df4c3623259de6310d3f135fbe9d84e902b95fa62f6ab86",
+   "size": 2643
+  },
+  "email.png": {
+   "sha512": "46828cbcc8c812970350eb2105d91ef63505d18d59e151bea7841c8b90d14ae9",
+   "size": 17140
+  },
+  "ethereum.png": {
+   "sha512": "55c2f8f634223832be98ea5eb4a371e457bb6b0c408bf041213b02749b6e8a72",
+   "size": 136007
+  },
+  "florincoin.png": {
+   "sha512": "eb0501cb9543f06305b205d0b570f0545eb0bf2c30356483b87ba1609045692f",
+   "size": 21829
+  },
+  "ipfs.svg": {
+   "sha512": "8c6e82e7bbb83bfd1e2e1268c07327b9e5f73012cc7f1d353152198b7dc4b6f1",
+   "size": 4836
+  },
+  "irc.png": {
+   "sha512": "ed810857a41960d8233c2177ba7770854839fb73b570faccd010f08b6991ba2e",
+   "size": 27835
+  },
+  "iuri.png": {
+   "sha512": "0fce575972eb52dac8ca67219c8335f8d2ceabcb645bac05723bc35ee6bd8912",
+   "size": 430259
+  },
+  "jabber.png": {
+   "sha512": "0589aa24a3b5bed80d2c6021f24e33ca68d0b9c9cae32e6bd291d3a989331e98",
+   "size": 22271
   },
   "kontalk.png": {
    "sha512": "fcc41bbbc39e0fc3f1e186a95d9d213397b1441ea69fb57a75ec3c4a712a8bf6",
@@ -134,14 +156,6 @@
    "sha512": "4c19aa5b3aaa0b0503225a7ed4a820b625e12abca6146eb0c38397dc011efc16",
    "size": 22934
   },
-  "not_found.html": {
-   "sha512": "151bcb13113b9f4667fa1d0b83185ced2499d22913cec5acb0bd470eaa31287f",
-   "size": 2252
-  },
-  "paginas.html": {
-   "sha512": "9f5dfff5a1b4387345c240cdfdf6f4ba85816c79534e8f563578c8033eb97186",
-   "size": 6319
-  },
   "pivx.png": {
    "sha512": "34af832cec545118c3e4f1fff3c02819ab7c24cbe7d46859ca813e7f23b2360b",
    "size": 44202
@@ -149,10 +163,6 @@
   "qrcode-tox.png": {
    "sha512": "7e6fcb4a27ecf5db91041726ec1056b95607cb6e884c06fbdabff76a6afef8ce",
    "size": 6282
-  },
-  "redes.html": {
-   "sha512": "af4b497f9214cd843de74ee67e9ad9502e29cd0036fae5aee7f8feb78a027feb",
-   "size": 6080
   },
   "telegram.png": {
    "sha512": "6f780fbb3dc0910e6a7621eef0929678750ae0c04762784af668b8d03199e376",
@@ -166,34 +176,27 @@
    "sha512": "4e05f09f472707873e74027c5932b40d2dc3016ead5be202df0ae7b9e91da131",
    "size": 44542
   },
-  "torrent.html": {
-   "sha512": "676b21106745cea08b0d1f268c99bb3e40a1b06f184f040c1ad4197e6319f39e",
-   "size": 2932
-  },
   "tox.png": {
    "sha512": "f27dea0d0cbc31c30cb7f2ade03c5abbc738dd3800c14492e593057a2ac7fc76",
    "size": 2155
-  },
-  "webtorrent.min.js": {
-   "sha512": "f6ca6cbb85e02a6a59d3cb3066dc8ab3e2ca9de1ca9f66e5c16835023b58fb91",
-   "size": 263066
   },
   "zeronet.svg": {
    "sha512": "a8a3049f5d88813d9233fac5fea4063d3ebcc1803dd236e991c382649c84b1eb",
    "size": 1002
   }
  },
- "ignore": "",
+ "ignore": "(\\.git)",
  "inner_path": "content.json",
- "modified": 1491349425,
+ "modified": 1491351600,
+ "optional": "(.*\\.png|.*\\.svg)",
  "postmessage_nonce_security": true,
  "sign": [
-  107093615201071526356481891249157856336636322901111113281538740614677475317387,
-  14577784092703933316631720681977806069689631351380723980668304439463140282850
+  34037767260689825075573450495957733742621408996652237861422012667727288143357,
+  12287576025392624209142113635684555730287457035654351484725798147941273811611
  ],
  "signers_sign": "Gy+epPJt4Y4BcFwWPi7Vmt0xNp/DLAEb84HB9QZ3IDDvOkt6nMiDqEf3lGbWoG2ByjysJ5m4kH/UCjNcUDKgp3A=",
  "signs": {
-  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "HNS4/Na0UDl36Wk4IMwE9V3kG0/DQtng8k9E8aihxH+ceKwub5JuRCvaCS0uLLc3Pdyi77y+5nLy1gqeBwzcAO4="
+  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "GyBqyf96hWXsbTnBFY7EJsKnKiQiamcomRaySpL8ALoEpwkSV6NTwXGYULATetygrMYTgtvkqdDoDrpGCw45TVQ="
  },
  "signs_required": 1,
  "title": "Iuri Guilherme dos Santos Martins",
