@@ -39,8 +39,8 @@
    "size": 17240
   },
   "index.html": {
-   "sha512": "a0a5fef9d38df266fa98869140928cd7fb37aedd8b6fd0c1884b1ce978d86c41",
-   "size": 6990
+   "sha512": "98fa2dabe5a3df76e6a20a8bb6a36cd15d786168c09b447631b1d4c3ee144ace",
+   "size": 7384
   },
   "iuri.pub.asc": {
    "sha512": "667a3566b8f8970ce0ed317c6e2a1048c57133ddfe427b8409d5eb04f3b18533",
@@ -187,16 +187,16 @@
  },
  "ignore": "(\\.git)",
  "inner_path": "content.json",
- "modified": 1491376064,
+ "modified": 1491736829,
  "optional": "(.*\\.png|.*\\.svg)",
  "postmessage_nonce_security": true,
  "sign": [
-  18499231567559668818298089293305028957862912617321250499590628557004878812396,
-  81473538681512802376320605603331927788898089454573653443672852752988074644770
+  105870873029087767389728574697781149577909098450393986473065873356769108814269,
+  25173413187266720041468665103791792931016036016847631447522212478638588412326
  ],
  "signers_sign": "Gy+epPJt4Y4BcFwWPi7Vmt0xNp/DLAEb84HB9QZ3IDDvOkt6nMiDqEf3lGbWoG2ByjysJ5m4kH/UCjNcUDKgp3A=",
  "signs": {
-  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "HMk2KHvx1h3u7Iex1jezkGnbtKeuDwwNjGm7B7XlkI7Y1511Il2y2unWUTINKsa/msc/gELuOtwliKafgOKYK20="
+  "12Wm19YRyGJiEd6fpAQqhFEdNzDwKoM2Ey": "GyGVfU3jKuoWVWjAK4lyEe30Jlje80l3bs5AygY2x0UT6RQ7hMBmx9SiQaSRWmFZNikY0AcvauA3PtRx1e5FTb0="
  },
  "signs_required": 1,
  "title": "Iuri Guilherme dos Santos Martins",
