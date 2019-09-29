@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/iuriguilherme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iuri.neocities.org
+  * I am iuriguilherme (https://keybase.io/iuriguilherme) on keybase.
+  * I have a public key with fingerprint BE63 A69B 71FA 985A 2384  24DD E23E 7EC0 76CB DC46
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d5de95dfbb8df61855f74cb9fed779003f5049d485f8526f1c6e5ae226074d970a",
+      "fingerprint": "be63a69b71fa985a238424dde23e7ec076cbdc46",
+      "host": "keybase.io",
+      "key_id": "e23e7ec076cbdc46",
+      "kid": "0101d5de95dfbb8df61855f74cb9fed779003f5049d485f8526f1c6e5ae226074d970a",
+      "uid": "c908b18c084edb44408b1dd46c45f919",
+      "username": "iuriguilherme"
+    },
+    "service": {
+      "hostname": "iuri.neocities.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1569735628,
+  "expire_in": 157680000,
+  "prev": "2608f285cac20ca214444b96b8d0498963d802c4578fdf4891c76445249f1c79",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJfSBRBHD41DQ01IfKhKFuICs1292Z2Z69/JxKR1EMklVGcuzOzd5N2
+e+3uXcpp9FCEaKAl9N/IijSMyh4ipDIriLSX6qIgqM4wKSyC6CmrWSnoocfmZfjN
+7/u++X0fv/v5Wb68jODsdInOEpGM4bvdcd+O9sqRpGBYpFEIJIU6OnXRekIdN1TH
+iBAQREmUCCRUg8Q0DERMRUIQmirAhmZSoqqaKPpNKAKNAARNBGXFlLBCoU5lWRFV
+QDRV1IUywWTRMLVjNou6XNagil9XNEOVTF1DUJf9CMiAECr7qUqxqCrYIBgonBix
+HI/BhzN0h5Yzi7/xIjQ13j/w/3nu+JQc1kRkSAiLCFBiAAC8khCgYABNTdI8oEPt
+qL6LcjSL2ywcZ/URavO6uUzgrQTD1EvXs/MXrDxKLcxcRp1yyw5zmZhtuRa26nk/
+4roxJ+Dx3caYR9hDjdBvqZDBooRHyhkJajvMigoBiSOxyzxtCSqa6oeKjMoE2hBj
+Ng0xDwFVBYn8eP/QBJfkXpEpI4h1LItYlyXuDRiawiPj2SBN8RMkytylikxiAqRJ
+WFUAgDLQeF6qZ9yhu6OWEIB8TD3MJR0Wjupu3ObOhwa3T/Nl5PlysjO9VfPl5c78
+s4CR6uk/m7D1aefHgRNbr+w/cbKt+mp7/+E3h8CK/JRe3JJMOI+DWY2p9oruzfHe
+O19Or2rddqHn4ttrR9I4WPhcHXmwdy2oy7u1crzp26n+r/N9pGhuKlmQG8nPTe9b
+8AEW0oaJRc9Ia2ts4byi7uYf77IOpoZeDq1e3zHnxbIJ9qiq9LBwY3HsdaDhe3HO
++QPXzxV3JCrSvWftgs6jLYnS4cyN6/Dx5Z1rxIHJ0pw5wd3733fVJG5nVj7N7i0J
+jI/NbQvdy97Z97mptnZWxauuF21VT5LVDcLyM8LkjJvHysbWBjeNb8kedcMVGzIu
+PxwsHP28yry0tKdvaPaSB8fdGj3Vtf5p6S8Kxz/F
+=8dhp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iuriguilherme
+
+==================================================================
