@@ -48,6 +48,107 @@ a {
 a:hover {
   text-decoration:none;
 }
+.btn,
+.btn-small,
+.btn-large,
+.btn-xlarge,
+.btn-action,
+button,
+input[type='submit'],
+.btn-action-2,
+.btn-action-2:visited,
+.btn-action-3,
+.btn-action-3:visited,
+.btn-negative,
+input[type='reset'],
+button[type='reset'],
+.btn-disable,
+.btn-disable:hover,
+[disabled] {
+  -moz-transition: all 0.25s ease-in-out 0s;
+  -ms-transition: all 0.25s ease-in-out 0s;
+  -o-transition: all 0.25s ease-in-out 0s;
+  -webkit-transition: all 0.25s ease-in-out 0s;
+  transition: all 0.25s ease-in-out 0s;
+  background: white;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Open Sans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1;
+  padding: 8px 12px;
+  text-align: center;
+  text-decoration: none !important;
+  vertical-align: middle;
+  -webkit-appearance: none; }
+  .btn.btn-pad,
+  .btn-pad.btn-small,
+  .btn-pad.btn-large,
+  .btn-pad.btn-xlarge,
+  .btn-pad.btn-action,
+  button.btn-pad,
+  input.btn-pad[type='submit'],
+  .btn-pad.btn-action-2,
+  .btn-pad.btn-action-3,
+  .btn-pad.btn-negative,
+  input.btn-pad[type='reset'],
+  .btn-pad.btn-disable,
+  .btn-pad[disabled] {
+    padding: 8px 16px; }
+  .btn:hover, .btn:focus, .btn:active,
+  .btn-small:hover,
+  .btn-large:hover,
+  .btn-xlarge:hover,
+  .btn-action:hover,
+  button:hover,
+  input[type='submit']:hover,
+  .btn-action-2:hover,
+  .btn-action-3:hover,
+  .btn-negative:hover,
+  input[type='reset']:hover,
+  .btn-disable:hover,
+  [disabled]:hover,
+  .btn-small:focus,
+  .btn-large:focus,
+  .btn-xlarge:focus,
+  .btn-action:focus,
+  button:focus,
+  input[type='submit']:focus,
+  .btn-action-2:focus,
+  .btn-action-3:focus,
+  .btn-negative:focus,
+  input[type='reset']:focus,
+  .btn-disable:focus,
+  [disabled]:focus,
+  .btn-small:active,
+  .btn-large:active,
+  .btn-xlarge:active,
+  .btn-action:active,
+  button:active,
+  input[type='submit']:active,
+  .btn-action-2:active,
+  .btn-action-3:active,
+  .btn-negative:active,
+  input[type='reset']:active,
+  .btn-disable:active,
+  [disabled]:active {
+    background: white;
+    color: black; }
+  .btn:visited,
+  .btn-small:visited,
+  .btn-large:visited,
+  .btn-xlarge:visited,
+  .btn-action:visited,
+  button:visited,
+  input[type='submit']:visited,
+  .btn-action-2:visited,
+  .btn-action-3:visited,
+  .btn-negative:visited,
+  input[type='reset']:visited,
+  .btn-disable:visited,
+  [disabled]:visited {
+    color: black !important; }
 .caixa {
   padding:1em;
   -moz-border-radius:2em;
